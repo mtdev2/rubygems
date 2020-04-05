@@ -2,7 +2,7 @@
 name: Bundler related issue
 about: This template is intended for Bundler specific related issues.
 title: ''
-labels: 'Bundler'
+labels: ''
 assignees: ''
 
 ---

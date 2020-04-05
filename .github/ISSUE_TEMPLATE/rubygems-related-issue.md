@@ -1,8 +1,8 @@
 ---
-name: "RubyGems related issue"
+name: RubyGems related issue
 about: This template is intended for RubyGems specific related issues.
 title: ''
-labels: 'RubyGems'
+labels: ''
 assignees: ''
 
 ---
